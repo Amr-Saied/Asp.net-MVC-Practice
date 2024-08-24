@@ -1,0 +1,103 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    background-color: #d0e1f9; /* More noticeable blue-gray */
+    color: #333; /* Dark text for good contrast */
+    margin-bottom: 60px;
+}
+.container {
+    background-color: #ffffff; /* White background for content areas */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.card-img-top {
+    width: 100%;
+    height: 400px; /* Adjust the height as needed */
+    object-fit: cover;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-toggle {
+    background-color: #6c757d;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown-menu {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    transition: opacity 0.5s ease-in-out;
+    opacity: 0;
+}
+
+    .dropdown-menu a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+        .dropdown-menu a:hover {
+            background-color: #f1f1f1;
+        }
+
+.dropdown:hover .dropdown-menu {
+    display: block;
+    opacity: 1;
+}
+
+.dropdown:hover .dropdown-toggle {
+    background-color: #5a6268;
+}
+.form-inline .form-group {
+    display: flex;
+    align-items: center;
+}
+
+    .form-inline .form-group .form-control {
+        margin-right: 10px;
+    }
+
+.book-image {
+    width: 300px;
+    height: 500px;
+    object-fit: cover;
+    margin-left: 20px;
+}
+
+.custom-button {
+    text-decoration: none !important;
+    margin-bottom: 20px; 
+}
+
+
+
+

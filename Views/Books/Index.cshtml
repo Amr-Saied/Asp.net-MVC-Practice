@@ -1,0 +1,118 @@
+﻿@model WebApplication1.Models.BooksearchViewModel
+
+@{
+    ViewData["Title"] = "Books";
+}
+
+<h2>Books</h2>
+
+<!-- Search Form for Title and Genre -->
+<div class="d-flex justify-content-between">
+    <form asp-controller="Books" asp-action="Index" method="get" class="form-inline">
+        <div class="form-group mb-2">
+            <input type="text" name="searchString" value="@ViewData["CurrentFilter"]" placeholder="Search by Title" class="form-control" />
+            <button type="submit" class="btn btn-primary mb-2 ml-2">Search</button>
+        </div>
+    </form>
+
+    <!-- Genre Dropdown -->
+    <div class="dropdown">
+        <button class="btn btn-secondary dropdown-toggle" type="button" id="genreDropdown" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Search by Genres Here
+        </button>
+        <div class="dropdown-menu" aria-labelledby="genreDropdown">
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "" })">All</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Fiction" })">Fiction</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Dystopian" })">Dystopian</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Classic" })">Classic</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Romance" })">Romance</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Fantasy" })">Fantasy</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Adventure" })">Adventure</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Historical" })">Historical</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Epic" })">Epic</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Psychological" })">Psychological</a>
+            <a class="dropdown-item" href="@Url.Action("Index", new { genre = "Superhero" })">Superhero</a>
+
+        </div>
+    </div>
+</div>
+
+@if (ViewData["NoResults"] != null)
+{
+    <div class="alert alert-warning">
+        @ViewData["NoResults"]
+    </div>
+}
+else
+{
+    <div class="row">
+        @if (!string.IsNullOrEmpty(ViewData["CurrentFilter"] as string))
+        {
+            @foreach (var item in Model.BooksBytitle)
+            {
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title" onerror="this.onerror=null;this.src='/images/fallback.jpg';" />
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">@item.Author</h6>
+                            <p class="card-text">
+                                Genre: @item.Genre<br />
+                                Price: @item.Price.ToString("C")
+                            </p>
+                            <a asp-action="Edit" asp-route-id="@item.BookId" class="btn btn-warning">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.BookId" class="btn btn-info">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.BookId" class="btn btn-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else if (!string.IsNullOrEmpty(ViewData["CurrentGenre"] as string))
+        {
+            @foreach (var item in Model.BooksByGenre)
+            {
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title" onerror="this.onerror=null;this.src='/images/fallback.jpg';" />
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">@item.Author</h6>
+                            <p class="card-text">
+                                Genre: @item.Genre<br />
+                                Price: @item.Price.ToString("C")
+                            </p>
+                            <a asp-action="Edit" asp-route-id="@item.BookId" class="btn btn-warning">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.BookId" class="btn btn-info">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.BookId" class="btn btn-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            @foreach (var item in Model.BooksBytitle)
+            {
+                <div class="col-md-3 mb-4">
+                    <div class="card">
+                        <img src="@item.ImageUrl" class="card-img-top" alt="@item.Title" onerror="this.onerror=null;this.src='/images/fallback.jpg';" />
+                        <div class="card-body">
+                            <h5 class="card-title">@item.Title</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">@item.Author</h6>
+                            <p class="card-text">
+                                Genre: @item.Genre<br />
+                                Price: @item.Price.ToString("C")
+                            </p>
+                            <a asp-action="Edit" asp-route-id="@item.BookId" class="btn btn-warning">Edit</a>
+                            <a asp-action="Details" asp-route-id="@item.BookId" class="btn btn-info">Details</a>
+                            <a asp-action="Delete" asp-route-id="@item.BookId" class="btn btn-danger">Delete</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+
+
+    </div>
+}

@@ -1,0 +1,643 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CsharpProjects\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\models\\booksearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:models\\booksearchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\controllers\\acoount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:controllers\\acoount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:data\\webapplication1context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\books\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240819131535_updatebooksimage_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240819131535_updatebooksimage_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819131506_UpdateBooksImage_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240819131506_UpdateBooksImage_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130623_UpdateBooksImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240819130623_UpdateBooksImage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\webapplication1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\webapplication1contextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240819114743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240819114743_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\wwwroot\\css\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:wwwroot\\css\\custom.css||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240819130728_updatebooksimage_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240819130728_updatebooksimage_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240819130041_updateimagebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240819130041_updateimagebooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240819125343_addbooksimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240819125343_addbooksimages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240819123638_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240819123638_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240820103302_addedsearchingviewmodel_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240820103302_addedsearchingviewmodel_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|d:\\projects\\csharpprojects\\webapplication1\\migrations\\20240821121242_acoountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03F5D6F1-0BD5-460C-A8F6-4937191D47C9}|WebApplication1.csproj|solutionrelative:migrations\\20240821121242_acoountmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-21T12:10:50.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240821121242_AcoountModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240821121242_AcoountModel.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240821121242_AcoountModel.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240821121242_AcoountModel.cs",
+              "RelativeToolTip": "Migrations\\20240821121242_AcoountModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:12:42.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:59:14.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:58:47.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:56:43.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAoAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-21T11:56:30.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Acoount.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Controllers\\Acoount.cs",
+              "RelativeDocumentMoniker": "Controllers\\Acoount.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Controllers\\Acoount.cs",
+              "RelativeToolTip": "Controllers\\Acoount.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:55:30.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T13:12:31.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAmwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T12:54:38.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240820103302_AddedSearchingViewModel_1.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240820103302_AddedSearchingViewModel_1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240820103302_AddedSearchingViewModel_1.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240820103302_AddedSearchingViewModel_1.cs",
+              "RelativeToolTip": "Migrations\\20240820103302_AddedSearchingViewModel_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:33:02.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksearchViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\BooksearchViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\BooksearchViewModel.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\BooksearchViewModel.cs",
+              "RelativeToolTip": "Models\\BooksearchViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T10:12:21.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-20T09:40:44.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240819131535_UpdateBooksImage_3.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819131535_UpdateBooksImage_3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819131535_UpdateBooksImage_3.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819131535_UpdateBooksImage_3.cs",
+              "RelativeToolTip": "Migrations\\20240819131535_UpdateBooksImage_3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:15:35.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240819131506_UpdateBooksImage_3.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819131506_UpdateBooksImage_3.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819131506_UpdateBooksImage_3.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819131506_UpdateBooksImage_3.cs",
+              "RelativeToolTip": "Migrations\\20240819131506_UpdateBooksImage_3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:15:06.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240819130728_UpdateBooksImage_2.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130728_UpdateBooksImage_2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819130728_UpdateBooksImage_2.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130728_UpdateBooksImage_2.cs",
+              "RelativeToolTip": "Migrations\\20240819130728_UpdateBooksImage_2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:07:28.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240819130623_UpdateBooksImage.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130623_UpdateBooksImage.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819130623_UpdateBooksImage.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130623_UpdateBooksImage.cs",
+              "RelativeToolTip": "Migrations\\20240819130623_UpdateBooksImage.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwEQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:06:23.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Add.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Add.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Add.cshtml",
+              "RelativeToolTip": "Views\\Books\\Add.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T11:51:37.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T13:03:24.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T13:03:20.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T13:03:19.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T13:03:06.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240819130041_UpdateImageBooks.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130041_UpdateImageBooks.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819130041_UpdateImageBooks.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819130041_UpdateImageBooks.cs",
+              "RelativeToolTip": "Migrations\\20240819130041_UpdateImageBooks.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T13:00:41.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240819125343_AddBooksImages.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819125343_AddBooksImages.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819125343_AddBooksImages.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819125343_AddBooksImages.cs",
+              "RelativeToolTip": "Migrations\\20240819125343_AddBooksImages.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwFMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:53:43.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T12:52:39.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240819123638_SeedData.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819123638_SeedData.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819123638_SeedData.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819123638_SeedData.cs",
+              "RelativeToolTip": "Migrations\\20240819123638_SeedData.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:36:38.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T12:33:41.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WebApplication1ContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\WebApplication1ContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T12:10:36.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T11:59:01.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAF8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T11:58:13.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "custom.css",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\wwwroot\\css\\custom.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\custom.css",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\wwwroot\\css\\custom.css",
+              "RelativeToolTip": "wwwroot\\css\\custom.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-19T11:57:45.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T11:52:01.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240819114743_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819114743_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240819114743_InitialCreate.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Migrations\\20240819114743_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20240819114743_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAmwAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:47:44.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WebApplication1Context.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Data\\WebApplication1Context.cs",
+              "RelativeDocumentMoniker": "Data\\WebApplication1Context.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Data\\WebApplication1Context.cs",
+              "RelativeToolTip": "Data\\WebApplication1Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:47:12.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAEwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-19T11:44:12.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:42:40.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AQIAAKoAAAAAAAAAAAAuwLUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T11:42:01.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:46:57.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\Projects\\CsharpProjects\\WebApplication1\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T12:46:44.991Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

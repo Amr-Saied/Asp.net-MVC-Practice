@@ -1,0 +1,49 @@
+﻿@model WebApplication1.Models.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1 class="text-center">Details</h1>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6 offset-md-2">
+            <h4>Book</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Title)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Title)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Author)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Author)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Price)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Price)
+                </dd>
+                <dt class="col-sm-4">
+                    @Html.DisplayNameFor(model => model.Genre)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Genre)
+                </dd>
+            </dl>
+        </div>
+        <div class="col-md-4 d-flex align-items-start justify-content-center">
+            <img src="@Model.ImageUrl" alt="@Model.Title" class="img-fluid book-image" onerror="this.onerror=null;this.src='/images/fallback.jpg';" />
+        </div>
+    </div>
+</div>
+<div class="text-center">
+    <a asp-action="Edit" asp-route-id="@Model?.BookId" class="btn btn-primary btn-lg custom-button">Edit</a>
+    <a asp-action="Index" class="btn btn-secondary btn-lg custom-button">Back to List</a>
+</div>

@@ -1,0 +1,22 @@
+﻿@model WebApplication1.Models.Book
+
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome To Booky</h1>
+    <p class="lead">Your one-stop shop for all your book needs.</p>
+</div>
+
+<div class="text-center" style="margin: 50px 0;">
+    <a class="btn btn-primary btn-lg" href="@Url.Action("Index", "Books")" role="button">
+        <img src="https://img.freepik.com/premium-vector/stack-books_119631-472.jpg?w=2000" alt="Books" style="width: 30px; height: 30px; margin-right: 10px;" />
+        Check our Books
+    </a>
+</div>
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
